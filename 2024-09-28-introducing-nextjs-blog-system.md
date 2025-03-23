@@ -8,6 +8,9 @@ coverImage: "https://raw.githubusercontent.com/Dicklesworthstone/yto_blog_posts/
 author: "Jeffrey Emanuel"
 authorImage: "https://pbs.twimg.com/profile_images/1225476100547063809/53jSWs7z_400x400.jpg"
 authorBio: "Software Engineer and Founder of YouTube Transcript Optimizer"
+seoTitle: "Custom SEO Title for Testing"
+seoDescription: "This is a custom SEO description to verify our implementation works"
+seoKeywords: ["test keyword", "test seo implementation", "next.js metadata"]
 ---
 
 # Introducing Our New Next.js Blogging System with Tailwind CSS
